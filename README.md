@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer (Full Stack)
 ------------------------------
 
-Started with HTML and PHP 7 years ago, Now i am building Full-featured, fully-packed apps using React, Python, C, and basic Html at fast speeds.
+Not saying i am the Next Elon Musk, Mark zuckerberg or Bill gates,,,I am just better. Currently building Fully-packed, Fully-featured apps using React, Python, C at fast speeds.
 
 * 🌍  I'm based in Kenya
 * 🖥️  See my portfolio at [Kavete's Portfolio](http://kavetekevin.github.io)
