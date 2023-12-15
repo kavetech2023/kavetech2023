@@ -1,10 +1,10 @@
-Hi My name is Kevin Kavete
+Hi [] my name is Kevin Kavete
 ====================================================================================================================================
 
 Software Engineer (Full-Stack)
 ------------------------------
 
-I am a Software Engineer with a Bachelors Degree in Marketing. I love solving complex social problems with Tech.
+I am a Software Engineer with a Bachelors Degree in Marketing. I love solving society's most complex problems with Tech.
 
 * 🌍  I'm based in Kenya
 * 🖥️  See my portfolio at [Kavete's Portfolio](http://kavetekevin.github.io)
