@@ -1,4 +1,4 @@
-Hi [] my name is Kevin Kavete
+Hi! my name is Kevin Kavete
 ====================================================================================================================================
 
 Software Engineer (Full-Stack)
