@@ -7,9 +7,9 @@ Software Engineer (Full-Stack)
 I am a Software Engineer with a Bachelors Degree in Commerce - Marketing. I love solving society's most complex problems with Tech.
 
 * 🌍  I'm based in Kenya
-* 🖥️  See my portfolio at [Kavete's Portfolio](http://kavetekevin.github.io)
+* 🖥️  My portfolio at [Kavete's Portfolio](http://kavetekevin.github.io)
 * ✉️  You can contact me at [kavetekevin@gmail.com](mailto:kavetekevin@gmail.com)
-* 🚀  I'm currently working on [Code Garden (An easier way to learn code)](http://(s)://codegarden.codes)
+* 🚀  Currently working on [Code Garden (An easier way to learn code)](http://(s)://codegarden.codes)
 * 🧠  I'm learning Artificial Intelligence.
 * 🤝  I'm open to collaborating on Extremely Challenging Tasks...like super-complex ones.
 * ⚡  I'm Not the next elon musk, bill gates or mark zuckerberg...i am the next me.
