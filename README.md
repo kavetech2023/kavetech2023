@@ -9,7 +9,7 @@ I am a Software Engineer with a Bachelors Degree in Commerce - Marketing. I love
 * 🌍  I'm based in Kenya
 * 🖥️  My portfolio at [Kavete's Portfolio](https://kavetech2023.github.io/kavetech2023/)
 * ✉️  You can contact me at [kavetekevin@gmail.com](mailto:kavetekevin@gmail.com)
-* 🚀  Currently working on [Kavete.org (Solving Unemployment in Africa)](https://kavetech.org)
+* 🚀  Currently working on [Kavete.org (Solving Poverty)](https://kavetech.org)
 * 🧠  I'm learning Artificial Intelligence.
 * 🤝  I'm open to collaborating on Extremely Challenging Tasks...like super-complex ones.
 * ⚡  I'm Not the next elon musk, bill gates or mark zuckerberg...i am the next me.
